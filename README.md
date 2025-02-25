@@ -1,0 +1,1 @@
+# claude37TrendFinder
